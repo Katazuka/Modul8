@@ -1,0 +1,15 @@
+{
+  "name": "mypacege",
+  "version": "1.0.0",
+  "description": "задание модуль 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Varetsa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
+}
